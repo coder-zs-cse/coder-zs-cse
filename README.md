@@ -17,6 +17,7 @@ Battling through the competitive programming arena was a blast, but there's a wh
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zubin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zubinshah1/)
 - Email: [![Email](https://img.shields.io/badge/Email-Zubin-red?style=flat-square&logo=gmail)](mailto:sadat.zubin@gmail.com)
 
+- ⚡ Fun fact: I'm lefty (I code with my right while my left hand handles the bugs smashing - multitasking pro, you know)
 <!--
 **AryanShr/AryanShr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
