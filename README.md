@@ -1,4 +1,4 @@
-### Hi there 👋, Zubin Here
+### Hi there 👋 Zubin Here
 
 ## 🌱 Currently Exploring
 
